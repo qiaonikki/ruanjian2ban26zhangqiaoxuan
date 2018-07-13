@@ -1,4 +1,4 @@
-
+﻿1212
 $(function(){
 	//页面加载时刷新当前页面
 	$(window).resize(function() {
